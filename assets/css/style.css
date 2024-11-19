@@ -1,0 +1,58 @@
+body {
+    background-color: #000000;
+}
+
+.title {
+    text-align: center;
+    font-size: 34px;
+    color: rgb(82, 237, 65);
+}
+
+.threadWrapper{
+    background-color: #4c4e4d;
+    padding: 10px;
+    max-width: 1300px;
+    margin: 0 auto;
+    border: 1px solid rgb(79, 242, 77);
+    margin-bottom: 20px;
+    color: rgb(10, 245, 21);
+}
+
+.childWrapper {
+    border: 1px solid;
+    padding: 10px;
+}
+
+.threadTitle {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  margin-left: 6px;
+  height: 60px;
+}
+
+.threadTitle h1 {
+    color: rgb(31, 222, 139);
+    margin-left: 3px;
+    font-size: 27px;
+}
+
+section {
+    padding: 0 10px;
+}
+
+section .nameArea {
+    display: flex;
+    align-items: center;
+    margin-bottom: -14px;
+}
+
+section .username {
+    color: rgb(244, 132, 132);
+    font-weight: 700;
+}
+
+section .comment {
+    margin-top: 0;
+    margin-left: 20px;
+}
