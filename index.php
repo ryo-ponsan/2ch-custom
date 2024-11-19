@@ -1,3 +1,15 @@
+<?php
+
+# 値が入っていれば
+if (isset($_POST["submitButton"])){
+    # スーパーグローバル変数
+    $username = $_POST["username"];
+    var_dump($username);
+    $body = $_POST["body"];
+    var_dump($body);
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,14 +41,17 @@
                     </div>
                 </article>
             </section>
-            <form action="" class="formWrapper">
+            <form action="" class="formWrapper" method="POST">
                 <div>
-                    <input type="submit" value="Write">
+                    <input type="submit" value="書き込む" name="submitButton">
                     <label>名前：</label>
-                    <input type="text">
+                    <input type="text" name="username">
                 </div>
                 <div>
-                    <textarea class="commentTextArea"></textarea>
+                    <textarea class="commentTextArea" name="body"></textarea>
+                </div>
+                <div>
+                    <button>AIで２ちゃん風のテキストに変換</button>
                 </div>
             </form>
         </div>
