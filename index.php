@@ -29,6 +29,16 @@
                     </div>
                 </article>
             </section>
+            <form action="" class="formWrapper">
+                <div>
+                    <input type="submit" value="Write">
+                    <label>名前：</label>
+                    <input type="text">
+                </div>
+                <div>
+                    <textarea class="commentTextArea"></textarea>
+                </div>
+            </form>
         </div>
     </div>
 </body>

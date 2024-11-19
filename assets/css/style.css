@@ -56,3 +56,15 @@ section .comment {
     margin-top: 0;
     margin-left: 20px;
 }
+
+.formWrapper {
+    padding: 16px;
+    margin-left: 20px;
+}
+
+.commentTextArea {
+    margin-top: 10px;
+    width: 500px;
+    height: 90px;
+    resize: none;
+}
