@@ -1,5 +1,7 @@
 <?php
 
+include_once("./app/database/connect.php");
+
 # 値が入っていれば
 if (isset($_POST["submitButton"])){
     # スーパーグローバル変数
@@ -15,7 +17,7 @@ if (isset($_POST["submitButton"])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2ch掲示板</title>
+    <title>2ch掲示板AI</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
