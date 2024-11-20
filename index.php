@@ -13,17 +13,20 @@ if (isset($_POST["submitButton"])){
         $error_message["body"] = "コメントを入力してください。";
     }
 
-    $post_date = date("Y-m-d H:i:s");
+    if(empty($error_message)){
+        $post_date = date("Y-m-d H:i:s");
 
-    $sql = "INSERT INTO `comment` (`username`, `body`, `post_date`) VALUES (:username, :body, :post_date);";
-    $statement = $pdo->prepare($sql);
+        $sql = "INSERT INTO `comment` (`username`, `body`, `post_date`) VALUES (:username, :body, :post_date);";
+        $statement = $pdo->prepare($sql);
+    
+        //値をセット
+        $statement->bindParam(":username", $_POST["username"], PDO::PARAM_STR);
+        $statement->bindParam(":body", $_POST["body"], PDO::PARAM_STR);
+        $statement->bindParam(":post_date", $post_date, PDO::PARAM_STR);
+    
+        $statement->execute();
+    }
 
-    //値をセット
-    $statement->bindParam(":username", $_POST["username"], PDO::PARAM_STR);
-    $statement->bindParam(":body", $_POST["body"], PDO::PARAM_STR);
-    $statement->bindParam(":post_date", $post_date, PDO::PARAM_STR);
-
-    $statement->execute();
 }
 
 $comment_array = array();
@@ -35,7 +38,7 @@ $statement = $pdo->prepare($sql);
 // 実行した結果をコメントarrayにいれる
 $statement->execute();
 $comment_array = $statement->fetchAll();
-var_dump($comment_array); // 配列内容を確認（デバッグ用）
+// var_dump($comment_array); // 配列内容を確認（デバッグ用）
 ?>
 
 <!DOCTYPE html>
@@ -51,6 +54,16 @@ var_dump($comment_array); // 配列内容を確認（デバッグ用）
         <h1 class="title">2ちゃんねるAI掲示板</h1>
         <hr>
     </header>
+    <?php if(isset($error_message)) : ?>
+
+        <ul class="errorMessage">
+            <?php foreach($error_message as $error) : ?>
+                <li><?php echo $error;?></li>
+            <?php endforeach;?>
+        </ul>
+
+    <?php endif; ?>
+
     <div class="threadWrapper">
         <div class="childWrapper">
             <div class="threadTitle">
@@ -81,7 +94,7 @@ var_dump($comment_array); // 配列内容を確認（デバッグ用）
                     <textarea class="commentTextArea" name="body"></textarea>
                 </div>
                 <div>
-                    <button>AIで２ちゃん風のテキストに変換</button>
+                    <button>AIで平和な２ちゃんねるに変換する</button>
                 </div>
             </form>
         </div>

@@ -68,3 +68,8 @@ section .comment {
     height: 90px;
     resize: none;
 }
+
+.errorMessage {
+    color: red;
+    margin-left: 70px;
+}
