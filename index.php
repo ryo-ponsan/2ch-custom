@@ -2,14 +2,40 @@
 
 include_once("./app/database/connect.php");
 
-# 値が入っていれば
+$error_message = array();
+
 if (isset($_POST["submitButton"])){
-    # スーパーグローバル変数
-    $username = $_POST["username"];
-    var_dump($username);
-    $body = $_POST["body"];
-    var_dump($body);
+
+    if(empty($_POST["username"])){
+        $error_message["username"] = "お名前を入力してください。";
+    }
+    if(empty($_POST["body"])){
+        $error_message["body"] = "コメントを入力してください。";
+    }
+
+    $post_date = date("Y-m-d H:i:s");
+
+    $sql = "INSERT INTO `comment` (`username`, `body`, `post_date`) VALUES (:username, :body, :post_date);";
+    $statement = $pdo->prepare($sql);
+
+    //値をセット
+    $statement->bindParam(":username", $_POST["username"], PDO::PARAM_STR);
+    $statement->bindParam(":body", $_POST["body"], PDO::PARAM_STR);
+    $statement->bindParam(":post_date", $post_date, PDO::PARAM_STR);
+
+    $statement->execute();
 }
+
+$comment_array = array();
+
+// コメントデータを取得
+$sql = "SELECT * FROM comment";
+// prepareメソッド 
+$statement = $pdo->prepare($sql);
+// 実行した結果をコメントarrayにいれる
+$statement->execute();
+$comment_array = $statement->fetchAll();
+var_dump($comment_array); // 配列内容を確認（デバッグ用）
 ?>
 
 <!DOCTYPE html>
@@ -32,16 +58,18 @@ if (isset($_POST["submitButton"])){
                 <h1>2チャンネルAI掲示板作ってみた</h1>
             </div>
             <section>
-                <article>
-                    <div class="wrapper">
-                        <div class="nameArea">
-                            <span>名前：</span>
-                            <p class="username">ponsan</p>
-                            <time>:2024/11/19 20:00</time>
+                <?php foreach($comment_array as $comment) : ?>
+                    <article>
+                        <div class="wrapper">
+                            <div class="nameArea">
+                                <span>名前：</span>
+                                <p class="username"><?php echo $comment["username"]; ?></p>
+                                <time>:<?php echo $comment["post_date"]; ?></time>
+                            </div>
+                            <p class="comment"><?php echo $comment["body"]; ?></p>
                         </div>
-                        <p class="comment">ハードコメント</p>
-                    </div>
-                </article>
+                    </article>
+                <?php endforeach ?>
             </section>
             <form action="" class="formWrapper" method="POST">
                 <div>
