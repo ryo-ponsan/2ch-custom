@@ -1,0 +1,3455 @@
+[20-Nov-2024 15:27:36 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:27:44 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:27:44 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:27:44 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:27:44 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:46 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:46 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:46 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:27:46 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:27:46 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:27:46 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ntestttttttttt\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:48 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:48 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:48 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:27:48 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:27:48 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:27:48 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ncakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:49 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:49 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:49 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:27:49 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:27:49 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:27:49 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nI love coding\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:51 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:51 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:51 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:27:51 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:27:51 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:27:51 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\niiaaa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:53 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:53 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:53 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:27:53 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:27:53 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:27:53 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nusausausa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:54 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:54 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:54 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:27:54 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:27:54 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:27:54 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:27:56 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:27:56 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:27:56 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:27:56 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:27:56 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:28:37 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:28:37 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:28:37 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:28:37 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:40 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:28:41 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:41 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:41 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:28:41 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:28:41 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:28:41 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ntestttttttttt\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:45 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:45 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:45 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:28:45 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:28:45 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:28:45 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ncakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:47 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:47 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:47 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:28:47 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:28:47 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:28:47 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nI love coding\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:50 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:50 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:50 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:28:50 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:28:50 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:28:50 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\niiaaa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:52 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:52 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:52 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:28:52 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:28:52 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:28:52 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nusausausa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:54 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:54 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:54 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:28:54 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:28:54 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:28:54 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:28:56 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:28:56 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:28:56 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:28:56 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:28:56 Europe/Berlin] Fetched comments: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [0] => 1
+            [username] => ponsan
+            [1] => ponsan
+            [body] => 初投稿しました。
+            [2] => 初投稿しました。
+            [post_date] => 2024-11-19 16:02:26
+            [3] => 2024-11-19 16:02:26
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [0] => 2
+            [username] => testuser2
+            [1] => testuser2
+            [body] => testttttttttt
+            [2] => testttttttttt
+            [post_date] => 2024-11-19 16:16:44
+            [3] => 2024-11-19 16:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [0] => 3
+            [username] => ワイワイ
+            [1] => ワイワイ
+            [body] => cakephp, jqueryもキャッチアップしないと
+            [2] => cakephp, jqueryもキャッチアップしないと
+            [post_date] => 2024-11-19 16:36:49
+            [3] => 2024-11-19 16:36:49
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [0] => 4
+            [username] => programmer
+            [1] => programmer
+            [body] => I love coding
+            [2] => I love coding
+            [post_date] => 2024-11-20 14:33:35
+            [3] => 2024-11-20 14:33:35
+        )
+
+    [4] => Array
+        (
+            [id] => 8
+            [0] => 8
+            [username] => aa
+            [1] => aa
+            [body] => iiaaa
+            [2] => iiaaa
+            [post_date] => 2024-11-20 14:49:08
+            [3] => 2024-11-20 14:49:08
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [0] => 9
+            [username] => usa
+            [1] => usa
+            [body] => usausausa
+            [2] => usausausa
+            [post_date] => 2024-11-20 14:49:33
+            [3] => 2024-11-20 14:49:33
+        )
+
+    [6] => Array
+        (
+            [id] => 10
+            [0] => 10
+            [username] => ドナルド
+            [1] => ドナルド
+            [body] => おらおらおらおらおらおらおら
+            [2] => おらおらおらおらおらおらおら
+            [post_date] => 2024-11-20 14:50:43
+            [3] => 2024-11-20 14:50:43
+        )
+
+)
+
+[20-Nov-2024 15:38:08 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:10 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:10 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:10 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ntestttttttttt\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:11 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:11 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:11 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ncakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:13 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:13 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:13 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nI love coding\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:15 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:15 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:15 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\niiaaa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:16 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:16 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:16 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nusausausa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:17 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:17 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:17 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:19 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:19 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:19 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\2chan-bbs\app\openai\client.php:29) in C:\xampp\htdocs\2chan-bbs\index.php on line 85
+[20-Nov-2024 15:38:37 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:39 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:39 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:39 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ntestttttttttt\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:40 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:40 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:40 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\ncakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:42 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:42 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:42 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nI love coding\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:44 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:44 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:44 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\niiaaa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:47 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:47 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:47 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\nusausausa\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:50 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:50 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:50 Europe/Berlin] Request Data: {"model":"text-davinci-003","prompt":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044:\n\n\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\n\n\u5909\u63db\u7d50\u679c:","temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:38:52 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 29
+[20-Nov-2024 15:38:52 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:38:52 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\2chan-bbs\app\openai\client.php:29) in C:\xampp\htdocs\2chan-bbs\index.php on line 85
+[20-Nov-2024 15:40:12 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:14 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:14 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:14 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:17 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:17 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:17 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:18 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:18 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:18 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:20 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:20 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:20 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:22 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:22 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:22 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:24 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:24 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:24 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:40:27 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:40:27 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:40:27 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\2chan-bbs\app\openai\client.php:32) in C:\xampp\htdocs\2chan-bbs\index.php on line 85
+[20-Nov-2024 15:42:48 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:42:50 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:42:50 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:42:50 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:42:52 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:42:52 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:42:52 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:42:54 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:42:54 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:42:54 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:42:56 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:42:56 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:42:56 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:42:59 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:42:59 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:42:59 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:43:00 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:43:00 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:43:00 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:43:02 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:43:02 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:43:02 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:43:04 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:43:04 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:14 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:16 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:16 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:16 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:17 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:17 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:17 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:19 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:19 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:19 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:20 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:20 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:20 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:22 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:22 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:22 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:23 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:23 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:23 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:25 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:25 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:44:25 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:44:26 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:44:26 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:43 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:45 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:45 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:45 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:46 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:46 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:46 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:48 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:48 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:48 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:49 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:49 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:49 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:51 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:51 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:51 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:52 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:52 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:52 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:53 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:53 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:45:53 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:45:54 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:45:54 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:02 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:04 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:04 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:04 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:05 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:05 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:05 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:07 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:07 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:07 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:09 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:09 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:09 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:10 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:10 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:10 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:12 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:12 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:12 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:13 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:13 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:46:13 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:46:14 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:46:14 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:13 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:50:13 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:50:13 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:15 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:15 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:15 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:50:15 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:50:15 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:50:15 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:16 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:16 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:16 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:50:16 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:50:16 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:50:16 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:17 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:17 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:17 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:50:17 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:50:17 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:50:17 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:19 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:19 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:19 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:50:19 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:50:19 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:50:19 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:21 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:21 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:21 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:50:21 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:50:21 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:50:21 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:22 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:22 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:22 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:50:22 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:50:22 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:50:22 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:24 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:24 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:24 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:50:24 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:50:24 Europe/Berlin] Processing comment ID 11: おいいいいおいいいいい
+[20-Nov-2024 15:50:24 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:50:25 Europe/Berlin] PHP Warning:  file_get_contents(https://api.openai.com/v1/completions): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in C:\xampp\htdocs\2chan-bbs\app\openai\client.php on line 32
+[20-Nov-2024 15:50:25 Europe/Berlin] OpenAI API request failed.
+[20-Nov-2024 15:50:25 Europe/Berlin] Transformed comment: おいいいいおいいいいい
+[20-Nov-2024 15:50:25 Europe/Berlin] Comment ID 11 updated successfully
+[20-Nov-2024 15:53:32 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:53:32 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:53:32 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:35 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNCfbVUuxXS5RzsTOMazim3K87j
+    [object] => chat.completion
+    [created] => 1732114414
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 初めての投稿、おめでとうございます！🎉これからもどんどん投稿していってくださいね。楽しみにしています！🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 44
+            [total_tokens] => 93
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:35 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:35 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:53:35 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:53:35 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:53:35 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:37 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNEgWypppIHEDRFfRx7pIPGnJa8
+    [object] => chat.completion
+    [created] => 1732114416
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => テストしているんですね！頑張ってください！💪🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 22
+            [total_tokens] => 71
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:37 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:37 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:53:37 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:53:37 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:53:37 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:40 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNHCUd2VS2K3KNttlAg5GxAaeWO
+    [object] => chat.completion
+    [created] => 1732114419
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => CakePHPやjQueryも少しずつ慣れていこうね！💪✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 59
+            [completion_tokens] => 24
+            [total_tokens] => 83
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:40 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:40 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:53:40 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:53:40 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:53:40 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:42 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNJEuwHBRQm8NP6EdfS0O8gD9XV
+    [object] => chat.completion
+    [created] => 1732114421
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => コーディングが大好きだよ！💻✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 16
+            [total_tokens] => 62
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:42 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:42 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:53:42 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:53:42 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:53:42 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:44 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNLrkIsUASVLnsw5AFwcXfWki7D
+    [object] => chat.completion
+    [created] => 1732114423
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！何かお手伝いできることがありますか？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 21
+            [total_tokens] => 67
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:44 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:44 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:53:44 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:53:44 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:53:44 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:47 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNOkx12iC7tB4DUvopMkpYUxLZB
+    [object] => chat.completion
+    [created] => 1732114426
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => うさうさうさうさ🐰✨楽しい気分ですね！
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 47
+            [completion_tokens] => 23
+            [total_tokens] => 70
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:47 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:47 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:53:47 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:53:47 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:53:47 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:49 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNQfF5LggT8N95AUBvk2prPa1xW
+    [object] => chat.completion
+    [created] => 1732114428
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => おお、ちょっと待って！元気？何か悩みがあるの？話してくれると嬉しいな♪ 🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 57
+            [completion_tokens] => 41
+            [total_tokens] => 98
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:49 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:49 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:53:49 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:53:49 Europe/Berlin] Processing comment ID 11: おいいいいおいいいいい
+[20-Nov-2024 15:53:49 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:53:52 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgNTjfAz3XNuTnwnKPUqjv02jUnI
+    [object] => chat.completion
+    [created] => 1732114431
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！どうしましたか？何かお困りのことがありますか？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 54
+            [completion_tokens] => 24
+            [total_tokens] => 78
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:53:52 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:53:52 Europe/Berlin] Transformed comment: おいいいいおいいいいい
+[20-Nov-2024 15:53:52 Europe/Berlin] Comment ID 11 updated successfully
+[20-Nov-2024 15:58:42 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:58:42 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:58:42 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:45 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSBrMVy8uSrU6KiPrOb0o4P7oQ8
+    [object] => chat.completion
+    [created] => 1732114723
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 初めての投稿、おめでとうございます！🎉これからもどんどん投稿していきましょう💪✨楽しみにしています！
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 46
+            [total_tokens] => 95
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:45 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:45 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:58:45 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:58:45 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:58:45 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:47 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSEZ5A8UZ0o25YcKMGTxXYXHeXp
+    [object] => chat.completion
+    [created] => 1732114726
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => テストしているんですね！頑張ってください！٩(ˊᗜˋ*)و
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 29
+            [total_tokens] => 78
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:47 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:47 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:58:47 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:58:47 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:58:47 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:49 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSGGs624IxkIV3YKrzPGPeCZz62
+    [object] => chat.completion
+    [created] => 1732114728
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => CakePHPやjQueryも少し勉強してみたらいいかもしれませんね！😊🍰📚
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 59
+            [completion_tokens] => 34
+            [total_tokens] => 93
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:49 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:49 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:58:49 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:58:49 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:58:49 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:50 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSHDiEOakcidDgTcawVIQnzg9N2
+    [object] => chat.completion
+    [created] => 1732114729
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 💻 Coding is amazing, isn't it? It's like solving puzzles and creating something new!
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 20
+            [total_tokens] => 66
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:50 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:50 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:58:50 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:58:50 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:58:50 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:52 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSJ1kV8PlkAhtnVVI0tcf7KXQzh
+    [object] => chat.completion
+    [created] => 1732114731
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！いいですね〜٩( ᐛ )و
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 16
+            [total_tokens] => 62
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:52 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:52 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:58:52 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:58:52 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:58:52 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:54 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSL7CNEuRu8Rg9qUfhX1Pk0D14V
+    [object] => chat.completion
+    [created] => 1732114733
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => うさうさうさ 🐰🐰🐰楽しいですね！
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 47
+            [completion_tokens] => 23
+            [total_tokens] => 70
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:54 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:54 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:58:54 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:58:54 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:58:54 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:55 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSMi5F91xSEi4p07AO28djUp84x
+    [object] => chat.completion
+    [created] => 1732114734
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => わーい！おらおらおらおら！元気いっぱいだね！😊✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 57
+            [completion_tokens] => 28
+            [total_tokens] => 85
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:55 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:55 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:58:55 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:58:55 Europe/Berlin] Processing comment ID 11: おいいいいおいいいいい
+[20-Nov-2024 15:58:55 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:58:57 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgSOA7kctr9lgKovY8X3LWpHwj1g
+    [object] => chat.completion
+    [created] => 1732114736
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => お疲れ様です！何かお手伝いできることがありますか？😊✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 54
+            [completion_tokens] => 31
+            [total_tokens] => 85
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:58:57 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:58:57 Europe/Berlin] Transformed comment: おいいいいおいいいいい
+[20-Nov-2024 15:58:57 Europe/Berlin] Comment ID 11 updated successfully
+[20-Nov-2024 15:59:33 Europe/Berlin] AI button clicked
+[20-Nov-2024 15:59:33 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 15:59:33 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u521d\u6295\u7a3f\u3057\u307e\u3057\u305f\u3002"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:35 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgT0mWR0JydE6BHtAK1QEuhvukpY
+    [object] => chat.completion
+    [created] => 1732114774
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 初めての投稿ですね！🎉これからもたくさん投稿して、楽しいコミュニケーションを楽しんでくださいね！✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 50
+            [total_tokens] => 99
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:35 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:35 Europe/Berlin] Transformed comment: 初投稿しました。
+[20-Nov-2024 15:59:35 Europe/Berlin] Comment ID 1 updated successfully
+[20-Nov-2024 15:59:35 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 15:59:35 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"testttttttttt"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:37 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgT2gFQiMrtNtMGbjj5HEj5JXAtv
+    [object] => chat.completion
+    [created] => 1732114776
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => テスト中ですね！頑張ってください！💪🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 19
+            [total_tokens] => 68
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:37 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:37 Europe/Berlin] Transformed comment: testttttttttt
+[20-Nov-2024 15:59:37 Europe/Berlin] Comment ID 2 updated successfully
+[20-Nov-2024 15:59:37 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:59:37 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"cakephp, jquery\u3082\u30ad\u30e3\u30c3\u30c1\u30a2\u30c3\u30d7\u3057\u306a\u3044\u3068"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:39 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgT3BKO9jtOeD42qSRLxLjZPHN0I
+    [object] => chat.completion
+    [created] => 1732114777
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => CakePHPとjQueryも少しずつ学んでいくといいかもしれませんね♪頑張ってください！🍰✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 59
+            [completion_tokens] => 38
+            [total_tokens] => 97
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:39 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:39 Europe/Berlin] Transformed comment: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 15:59:39 Europe/Berlin] Comment ID 3 updated successfully
+[20-Nov-2024 15:59:39 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 15:59:39 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"I love coding"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:41 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgT78aB8bO31SnXqV7jWb0sorQm6
+    [object] => chat.completion
+    [created] => 1732114781
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => コーディングが大好きです！💻✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 15
+            [total_tokens] => 61
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:41 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:42 Europe/Berlin] Transformed comment: I love coding
+[20-Nov-2024 15:59:42 Europe/Berlin] Comment ID 4 updated successfully
+[20-Nov-2024 15:59:42 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 15:59:42 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"iiaaa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:46 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgTBkH804iLLrMI7JjJ7sIE21I4H
+    [object] => chat.completion
+    [created] => 1732114785
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！いいですね～♪何かお手伝いできることはありますか？
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 26
+            [total_tokens] => 72
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:46 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:46 Europe/Berlin] Transformed comment: iiaaa
+[20-Nov-2024 15:59:46 Europe/Berlin] Comment ID 8 updated successfully
+[20-Nov-2024 15:59:46 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 15:59:46 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"usausausa"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:47 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgTCBB3NjsSOYvgIr00FRqvyjVsU
+    [object] => chat.completion
+    [created] => 1732114786
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => うさうさうさ 🐰🐰🐰♪
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 47
+            [completion_tokens] => 16
+            [total_tokens] => 63
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:47 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:47 Europe/Berlin] Transformed comment: usausausa
+[20-Nov-2024 15:59:47 Europe/Berlin] Comment ID 9 updated successfully
+[20-Nov-2024 15:59:47 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 15:59:47 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089\u304a\u3089"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:52 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgTGc3by0WThIejjATFeAcVyWGeY
+    [object] => chat.completion
+    [created] => 1732114790
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => わーい！何か楽しいことが起こりそうな予感がするね！💫何か嬉しいことがあったの？お話聞かせて♪
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 57
+            [completion_tokens] => 52
+            [total_tokens] => 109
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:52 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:52 Europe/Berlin] Transformed comment: おらおらおらおらおらおらおら
+[20-Nov-2024 15:59:52 Europe/Berlin] Comment ID 10 updated successfully
+[20-Nov-2024 15:59:52 Europe/Berlin] Processing comment ID 11: おいいいいおいいいいい
+[20-Nov-2024 15:59:52 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u304a\u3044\u3044\u3044\u3044\u304a\u3044\u3044\u3044\u3044\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:56 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgTLf6vlOuWaV99ffROVWh0ZQHTt
+    [object] => chat.completion
+    [created] => 1732114795
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！どうしましたか？お話しましょうか？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 54
+            [completion_tokens] => 20
+            [total_tokens] => 74
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:56 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:56 Europe/Berlin] Transformed comment: おいいいいおいいいいい
+[20-Nov-2024 15:59:56 Europe/Berlin] Comment ID 11 updated successfully
+[20-Nov-2024 15:59:56 Europe/Berlin] Processing comment ID 12: なにもわからない
+[20-Nov-2024 15:59:56 Europe/Berlin] Request Data: {"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u512a\u3057\u3044\u8a00\u8449\u3084\u7d75\u6587\u5b57\u3092\u4ea4\u3048\u305f\u8868\u73fe\u306b\u5909\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},{"role":"user","content":"\u306a\u306b\u3082\u308f\u304b\u3089\u306a\u3044"}],"temperature":0.7,"max_tokens":100}
+[20-Nov-2024 15:59:58 Europe/Berlin] OpenAI Response: Array
+(
+    [id] => chatcmpl-AVgTNQYJRTntPpMT1pxOdCiZq32fC
+    [object] => chat.completion
+    [created] => 1732114797
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => わかりにくいことがあって困ってるの？一緒に考えてみよう！💡✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 50
+            [completion_tokens] => 33
+            [total_tokens] => 83
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 15:59:58 Europe/Berlin] Unexpected API response format.
+[20-Nov-2024 15:59:58 Europe/Berlin] Transformed comment: なにもわからない
+[20-Nov-2024 15:59:58 Europe/Berlin] Comment ID 12 updated successfully
+[20-Nov-2024 16:02:19 Europe/Berlin] AI button clicked
+[20-Nov-2024 16:02:19 Europe/Berlin] Processing comment ID 1: 初投稿しました。
+[20-Nov-2024 16:02:21 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVghmbEdXxzPtvCxWZf6KMM2nHT
+    [object] => chat.completion
+    [created] => 1732114940
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 初めての投稿、おめでとうございます！🎉これからもどんどん投稿していってくださいね！✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 35
+            [total_tokens] => 84
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:21 Europe/Berlin] Transformed comment for ID 1: 初めての投稿、おめでとうございます！🎉これからもどんどん投稿していってくださいね！✨
+[20-Nov-2024 16:02:21 Europe/Berlin] Comment ID 1 updated successfully.
+[20-Nov-2024 16:02:21 Europe/Berlin] Processing comment ID 2: testttttttttt
+[20-Nov-2024 16:02:22 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgViM5oqn6D0oPzVBpWcnHtLfZ9r
+    [object] => chat.completion
+    [created] => 1732114942
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => テスト中ですね！頑張ってください！💪🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 49
+            [completion_tokens] => 19
+            [total_tokens] => 68
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:22 Europe/Berlin] Transformed comment for ID 2: テスト中ですね！頑張ってください！💪🌟
+[20-Nov-2024 16:02:22 Europe/Berlin] Comment ID 2 updated successfully.
+[20-Nov-2024 16:02:22 Europe/Berlin] Processing comment ID 3: cakephp, jqueryもキャッチアップしないと
+[20-Nov-2024 16:02:25 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVkz6xLOiwtF3xT8smAY5EEK5al
+    [object] => chat.completion
+    [created] => 1732114944
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => CakePHPやjQueryにも少し追いつかないといけないかもしれませんね 😅頑張って学んでいきましょう！
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 59
+            [completion_tokens] => 47
+            [total_tokens] => 106
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:25 Europe/Berlin] Transformed comment for ID 3: CakePHPやjQueryにも少し追いつかないといけないかもしれませんね 😅頑張って学んでいきましょう！
+[20-Nov-2024 16:02:25 Europe/Berlin] Comment ID 3 updated successfully.
+[20-Nov-2024 16:02:25 Europe/Berlin] Processing comment ID 4: I love coding
+[20-Nov-2024 16:02:28 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVnVtH5vLwxb5oxFDvWAGBycOkk
+    [object] => chat.completion
+    [created] => 1732114947
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => That's awesome! Coding is so much fun, right? 💻💫
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 16
+            [total_tokens] => 62
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:28 Europe/Berlin] Transformed comment for ID 4: That's awesome! Coding is so much fun, right? 💻💫
+[20-Nov-2024 16:02:28 Europe/Berlin] Comment ID 4 updated successfully.
+[20-Nov-2024 16:02:28 Europe/Berlin] Processing comment ID 8: iiaaa
+[20-Nov-2024 16:02:29 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVohlrH49eGubZgurJJN0eWNchb
+    [object] => chat.completion
+    [created] => 1732114948
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！どうしましたか？お手伝いできることがありますか？😊🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 46
+            [completion_tokens] => 28
+            [total_tokens] => 74
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:29 Europe/Berlin] Transformed comment for ID 8: こんにちは！どうしましたか？お手伝いできることがありますか？😊🌟
+[20-Nov-2024 16:02:29 Europe/Berlin] Comment ID 8 updated successfully.
+[20-Nov-2024 16:02:29 Europe/Berlin] Processing comment ID 9: usausausa
+[20-Nov-2024 16:02:31 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVq6IRopxenlWk0Fk4NezpdhtqL
+    [object] => chat.completion
+    [created] => 1732114950
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => うさうさうさ！🐰✨何かお手伝いできますか？
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 47
+            [completion_tokens] => 24
+            [total_tokens] => 71
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:31 Europe/Berlin] Transformed comment for ID 9: うさうさうさ！🐰✨何かお手伝いできますか？
+[20-Nov-2024 16:02:31 Europe/Berlin] Comment ID 9 updated successfully.
+[20-Nov-2024 16:02:31 Europe/Berlin] Processing comment ID 10: おらおらおらおらおらおらおら
+[20-Nov-2024 16:02:33 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVs3FOVp0RA3KfNlqt671BOAKts
+    [object] => chat.completion
+    [created] => 1732114952
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => お待ちくださいね！何かお手伝いできることがありますか？😊🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 57
+            [completion_tokens] => 29
+            [total_tokens] => 86
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:33 Europe/Berlin] Transformed comment for ID 10: お待ちくださいね！何かお手伝いできることがありますか？😊🌟
+[20-Nov-2024 16:02:33 Europe/Berlin] Comment ID 10 updated successfully.
+[20-Nov-2024 16:02:33 Europe/Berlin] Processing comment ID 11: おいいいいおいいいいい
+[20-Nov-2024 16:02:34 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVts9TCD37qakSkMerippO7HZfX
+    [object] => chat.completion
+    [created] => 1732114953
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！どうしましたか？何かお手伝いできることがありますか？✨🌼
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 54
+            [completion_tokens] => 30
+            [total_tokens] => 84
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:34 Europe/Berlin] Transformed comment for ID 11: こんにちは！どうしましたか？何かお手伝いできることがありますか？✨🌼
+[20-Nov-2024 16:02:34 Europe/Berlin] Comment ID 11 updated successfully.
+[20-Nov-2024 16:02:34 Europe/Berlin] Processing comment ID 12: なにもわからない
+[20-Nov-2024 16:02:36 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgVvY46jQoGQMb82uXiZymtkkV1M
+    [object] => chat.completion
+    [created] => 1732114955
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => わからないことがあっても大丈夫です！一緒に考えていきましょうね 😊💭💡わかるようになるかもしれませんよ！
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 50
+            [completion_tokens] => 57
+            [total_tokens] => 107
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:02:36 Europe/Berlin] Transformed comment for ID 12: わからないことがあっても大丈夫です！一緒に考えていきましょうね 😊💭💡わかるようになるかもしれませんよ！
+[20-Nov-2024 16:02:36 Europe/Berlin] Comment ID 12 updated successfully.
+[20-Nov-2024 16:11:18 Europe/Berlin] AI button clicked
+[20-Nov-2024 16:11:18 Europe/Berlin] Processing comment ID 13: おいおいどうなっているんだ
+[20-Nov-2024 16:11:20 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgeNPg291KiknVSVZXoBNYgdSjs1
+    [object] => chat.completion
+    [created] => 1732115479
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => もう大丈夫？何かあったの？😔💭
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 55
+            [completion_tokens] => 19
+            [total_tokens] => 74
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:20 Europe/Berlin] Transformed comment for ID 13: もう大丈夫？何かあったの？😔💭
+[20-Nov-2024 16:11:20 Europe/Berlin] Comment ID 13 updated successfully.
+[20-Nov-2024 16:11:20 Europe/Berlin] Processing comment ID 14: jQueryとreactどっちがよさそう
+[20-Nov-2024 16:11:23 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgePGP1hZjuKz9a7UCUSYoRfU5Zk
+    [object] => chat.completion
+    [created] => 1732115481
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => jQueryとreact、どちらがいいのか悩んでいるのですね。それぞれにはそれぞれの特徴や利点がありますよ。jQueryはシンプルで初心者にも扱いやすく、一方でreactはコンポーネントベースで使いやすく、さらにパフォーマンスも良い
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => length
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 54
+            [completion_tokens] => 100
+            [total_tokens] => 154
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:23 Europe/Berlin] Transformed comment for ID 14: jQueryとreact、どちらがいいのか悩んでいるのですね。それぞれにはそれぞれの特徴や利点がありますよ。jQueryはシンプルで初心者にも扱いやすく、一方でreactはコンポーネントベースで使いやすく、さらにパフォーマンスも良い
+[20-Nov-2024 16:11:23 Europe/Berlin] Comment ID 14 updated successfully.
+[20-Nov-2024 16:11:23 Europe/Berlin] Processing comment ID 15: オンラインで海外旅行兼英会話レッスンなんてあったらいいなあ
+[20-Nov-2024 16:11:25 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgeSZWhvICVIh7z9ZHiUYBI9APtA
+    [object] => chat.completion
+    [created] => 1732115484
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => オンラインで海外旅行と英会話を一緒に楽しめたらいいですね！✈️🌍英語を学びながら、世界中を旅するイメージですね。楽しそうですね！🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 73
+            [completion_tokens] => 76
+            [total_tokens] => 149
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:25 Europe/Berlin] Transformed comment for ID 15: オンラインで海外旅行と英会話を一緒に楽しめたらいいですね！✈️🌍英語を学びながら、世界中を旅するイメージですね。楽しそうですね！🌟
+[20-Nov-2024 16:11:25 Europe/Berlin] Comment ID 15 updated successfully.
+[20-Nov-2024 16:11:25 Europe/Berlin] Processing comment ID 16: Hello, My name is Ryan Susuki
+[20-Nov-2024 16:11:27 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgeVHVq9EfVYsFwKKmu8NyMONCDy
+    [object] => chat.completion
+    [created] => 1732115487
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => こんにちは！私の名前はRyan Susukiです 😊🌟
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 51
+            [completion_tokens] => 16
+            [total_tokens] => 67
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:27 Europe/Berlin] Transformed comment for ID 16: こんにちは！私の名前はRyan Susukiです 😊🌟
+[20-Nov-2024 16:11:27 Europe/Berlin] Comment ID 16 updated successfully.
+[20-Nov-2024 16:11:27 Europe/Berlin] Processing comment ID 17: ライアンほんもの？
+[20-Nov-2024 16:11:30 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgeX13NUxMsdlD8qUrjN3Te7KxRE
+    [object] => chat.completion
+    [created] => 1732115489
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => はい、私が本物のRyanですよ！どんなご用件でしょうか？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 53
+            [completion_tokens] => 27
+            [total_tokens] => 80
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:30 Europe/Berlin] Transformed comment for ID 17: はい、私が本物のRyanですよ！どんなご用件でしょうか？😊
+[20-Nov-2024 16:11:30 Europe/Berlin] Comment ID 17 updated successfully.
+[20-Nov-2024 16:11:30 Europe/Berlin] Processing comment ID 18: どこがふつうの２ちゃんと違うのか
+[20-Nov-2024 16:11:32 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgeZtTs3MaYFS2TPODKF8ewWQ1wf
+    [object] => chat.completion
+    [created] => 1732115491
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => ふつうの２ちゃんとの違いは何ですか？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 62
+            [completion_tokens] => 22
+            [total_tokens] => 84
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:32 Europe/Berlin] Transformed comment for ID 18: ふつうの２ちゃんとの違いは何ですか？😊
+[20-Nov-2024 16:11:32 Europe/Berlin] Comment ID 18 updated successfully.
+[20-Nov-2024 16:11:32 Europe/Berlin] Processing comment ID 19: cakePHPとDRF近い
+[20-Nov-2024 16:11:36 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgebADeBgI1Coa2xrEeuqPcUgjG8
+    [object] => chat.completion
+    [created] => 1732115493
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => cakePHPとDRFは似ていますね！どちらもWeb開発に使われる便利なツールです🍰🔧DRFはRESTful APIを作るのに向いていて、cakePHPはウェブアプリケーションを開発するのに役立ちます🌟どちらも使いやすいので、お好
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => length
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 50
+            [completion_tokens] => 100
+            [total_tokens] => 150
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:11:36 Europe/Berlin] Transformed comment for ID 19: cakePHPとDRFは似ていますね！どちらもWeb開発に使われる便利なツールです🍰🔧DRFはRESTful APIを作るのに向いていて、cakePHPはウェブアプリケーションを開発するのに役立ちます🌟どちらも使いやすいので、お好
+[20-Nov-2024 16:11:36 Europe/Berlin] Comment ID 19 updated successfully.
+[20-Nov-2024 16:23:14 Europe/Berlin] AI button clicked
+[20-Nov-2024 16:23:14 Europe/Berlin] Processing comment ID 13: 疲れたー
+[20-Nov-2024 16:23:16 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgpvyB0va97IHcEUo8ogSLKWkH5n
+    [object] => chat.completion
+    [created] => 1732116195
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => お疲れ様 😊💪
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 97
+            [completion_tokens] => 12
+            [total_tokens] => 109
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:16 Europe/Berlin] Transformed comment for ID 13: お疲れ様 😊💪
+[20-Nov-2024 16:23:16 Europe/Berlin] Comment ID 13 updated successfully.
+[20-Nov-2024 16:23:16 Europe/Berlin] Processing comment ID 14: jQueryとreact、どちらがいいかなあ
+[20-Nov-2024 16:23:18 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgpxESkjMu35lYdeM7Hm6sZJJZIx
+    [object] => chat.completion
+    [created] => 1732116197
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => jQueryとreact、どちらがいいかなぁ 🤔💭
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 104
+            [completion_tokens] => 19
+            [total_tokens] => 123
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:18 Europe/Berlin] Transformed comment for ID 14: jQueryとreact、どちらがいいかなぁ 🤔💭
+[20-Nov-2024 16:23:18 Europe/Berlin] Comment ID 14 updated successfully.
+[20-Nov-2024 16:23:18 Europe/Berlin] Processing comment ID 15: オンラインで海外旅行と英会話を一緒に楽しみたい
+[20-Nov-2024 16:23:21 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgpzqVtowJAdEdDf7qUsseaFU1z4
+    [object] => chat.completion
+    [created] => 1732116199
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => オンラインで海外旅行と英会話を一緒に楽しみましょう！✈️🌏🗣️
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 117
+            [completion_tokens] => 40
+            [total_tokens] => 157
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:21 Europe/Berlin] Transformed comment for ID 15: オンラインで海外旅行と英会話を一緒に楽しみましょう！✈️🌏🗣️
+[20-Nov-2024 16:23:21 Europe/Berlin] Comment ID 15 updated successfully.
+[20-Nov-2024 16:23:21 Europe/Berlin] Processing comment ID 16: こんにちは！私の名前はRyan Susuki
+[20-Nov-2024 16:23:22 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgq2oYNDmYARMfCmB95XKhevFEjF
+    [object] => chat.completion
+    [created] => 1732116202
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => Hello! My name is Ryan Suzuki 😊👋
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 101
+            [completion_tokens] => 12
+            [total_tokens] => 113
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:22 Europe/Berlin] Transformed comment for ID 16: Hello! My name is Ryan Suzuki 😊👋
+[20-Nov-2024 16:23:22 Europe/Berlin] Comment ID 16 updated successfully.
+[20-Nov-2024 16:23:22 Europe/Berlin] Processing comment ID 17: あなたがほんもののライアン？
+[20-Nov-2024 16:23:25 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgq4gTzXETZfYLCqj9o2JOPjIRJb
+    [object] => chat.completion
+    [created] => 1732116204
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => あなたがリアルなライアン？ 🤔
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 106
+            [completion_tokens] => 16
+            [total_tokens] => 122
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:25 Europe/Berlin] Transformed comment for ID 17: あなたがリアルなライアン？ 🤔
+[20-Nov-2024 16:23:25 Europe/Berlin] Comment ID 17 updated successfully.
+[20-Nov-2024 16:23:25 Europe/Berlin] Processing comment ID 18: ふつうの２ちゃんとの違いは何？
+[20-Nov-2024 16:23:27 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgq6c2uEzZztIQVD1o7LzcRYGYSn
+    [object] => chat.completion
+    [created] => 1732116206
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => 普通の2ちゃんねるとの違いは何かな？😊
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 109
+            [completion_tokens] => 24
+            [total_tokens] => 133
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:27 Europe/Berlin] Transformed comment for ID 18: 普通の2ちゃんねるとの違いは何かな？😊
+[20-Nov-2024 16:23:27 Europe/Berlin] Comment ID 18 updated successfully.
+[20-Nov-2024 16:23:27 Europe/Berlin] Processing comment ID 19: cakePHPとDRFどう使い分けるかなあ
+[20-Nov-2024 16:23:30 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgq83040tqSaWFVvLfTa8I4O3fyN
+    [object] => chat.completion
+    [created] => 1732116208
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => CakePHPとDRFの使い分け方について考えてみましょうね 😊🍰🐍CakePHPはPHPで、DRFはPythonで作られています。それぞれの特性や得意な用途を考えて、プロジェクトに合ったフレームワークを選ぶといいかもしれま
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => length
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 106
+            [completion_tokens] => 100
+            [total_tokens] => 206
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:30 Europe/Berlin] Transformed comment for ID 19: CakePHPとDRFの使い分け方について考えてみましょうね 😊🍰🐍CakePHPはPHPで、DRFはPythonで作られています。それぞれの特性や得意な用途を考えて、プロジェクトに合ったフレームワークを選ぶといいかもしれま
+[20-Nov-2024 16:23:30 Europe/Berlin] Comment ID 19 updated successfully.
+[20-Nov-2024 16:23:30 Europe/Berlin] Processing comment ID 20: webエンジニアになりたい
+[20-Nov-2024 16:23:32 Europe/Berlin] API Response: Array
+(
+    [id] => chatcmpl-AVgqB65QWWL0YrJLaFcKikyP3JOs3
+    [object] => chat.completion
+    [created] => 1732116211
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => Webエンジニアになりたいです！💻✨
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 102
+            [completion_tokens] => 17
+            [total_tokens] => 119
+            [prompt_tokens_details] => Array
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => Array
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[20-Nov-2024 16:23:32 Europe/Berlin] Transformed comment for ID 20: Webエンジニアになりたいです！💻✨
+[20-Nov-2024 16:23:32 Europe/Berlin] Comment ID 20 updated successfully.
